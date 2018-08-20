@@ -77,13 +77,10 @@ h2, h3 {
 .border_right {
   float: left;
   width: 32%;
-  margin-right: 2%;
+  margin-right: 1%;
   padding-right: 5em;
 }
 
-#last {
-  margin: 0;
-}
 
 ul, ol {
   margin-bottom: 10px;
