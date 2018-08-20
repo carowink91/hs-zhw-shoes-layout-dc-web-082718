@@ -82,7 +82,7 @@ h2, h3 {
 }
 
 #last {
-  margin: none;
+  margin: 0;
 }
 
 ul, ol {
