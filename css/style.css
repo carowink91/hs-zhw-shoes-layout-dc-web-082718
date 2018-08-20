@@ -27,11 +27,11 @@ img.verif_img {
   margin-bottom: 1em;
 }
 
-#col2 {
+#col2 { /* months/dates list*/
   float: left;
   width: 32%;
   margin-bottom: 1em;
-  font-size: 90px;
+  font-size: 9px;
   padding-bottom: 2.1em;
 }
 
