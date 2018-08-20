@@ -169,6 +169,7 @@ iframe {
   text-decoration: none;
   font: 20px "Trebuchet MS", Arial, sans-serif;
   font-weight: bold;
+  line-height: 1.5em;
 }
 
 #nav_bar nav a.selected {
