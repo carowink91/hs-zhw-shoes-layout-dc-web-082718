@@ -86,8 +86,8 @@ h2, h3 {
   width: 32%;
 }
 
-.border_right h3 {
-  font-size: 200px;
+.border_right h3 { /*footer "contact" etc*/
+  font-size: 20px;
 }
 
 #first, #middle {
