@@ -18,6 +18,15 @@ img.verif_img {
   height:30px;
   vertical-align: bottom;
 }
+/******* COLUMNS *********/
+
+#col-1 {
+  float: left;
+  width: 64%;
+}
+
+
+
 
 /********** Global **********/
 
@@ -116,7 +125,6 @@ iframe {
 
 .wrapper2 {
   width: 66.66%;
-  float: left;
 }
 
 .shadow {
