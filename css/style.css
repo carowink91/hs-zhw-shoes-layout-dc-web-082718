@@ -77,7 +77,7 @@ h2, h3 {
 }
 
 .shadow p { /* FIX FONT SIZE*/
-  font-size: .6em;
+  font-size: 1em;
 }
 
 .border_right {
@@ -86,7 +86,7 @@ h2, h3 {
 }
 
 .border_right h3 {
-  font-size: 19px;
+  font-size: 2em;
 }
 
 #first, #middle {
