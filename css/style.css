@@ -46,7 +46,7 @@ img.verif_img {
 #col5 {
   float: right;
   width: 32%;
-  height: 350px;
+  /*height: 350px;*/
   overflow: hidden;
 }
 
