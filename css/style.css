@@ -70,7 +70,7 @@ h2, h3 {
 
 }
 
-.shadow p {
+.shadow p { /* FIX FONT SIZE*/
   font-size: 9px;
 }
 
