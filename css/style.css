@@ -77,7 +77,7 @@ h2, h3 {
 }
 
 .shadow p { /* FIX FONT SIZE*/
-  font-size: 1em;
+  font-size: 4em;
 }
 
 .border_right {
@@ -365,7 +365,7 @@ section a {
   text-decoration: none;
 }
 
-#details p {
+#details p {/*************/
   font-size: 1em;
 }
 
