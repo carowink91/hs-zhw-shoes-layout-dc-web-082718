@@ -55,12 +55,6 @@ body {
   background: url(../images/handmadepaper.png);
 }
 
-/*
-div #col3 p, div #col4 p, div #col5 p{ /*3 shoe pics paragraph
-  font-size: 16px;
-}
-*/
-
 h2, h3 {
   margin-bottom: 5px;
 }
@@ -76,8 +70,8 @@ h2, h3 {
 
 }
 
-.shadow p { /* top paragraph*/
-  font-size: 16px;
+p { /* top paragraph*/
+  font-size: 160px;
 }
 
 .border_right {
