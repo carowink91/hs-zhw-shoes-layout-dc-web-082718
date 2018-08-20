@@ -372,4 +372,13 @@ footer a {
   text-decoration: underline;
 }
 
+.clearfix:after { /* parent ~line 52 in index.html (div.wrapper) is gonna collapse cuz all its children are floating, so we need to add this clearfix). so we add the class of clearfix to parents that need it*/
+  content: ".";
+  display: block;
+  clear: both;
+  visibility: hidden;
+  height: 0;
+  line-height: 0;
+}
+
 /* code examples copyright Jonathan Grover 2012 */
