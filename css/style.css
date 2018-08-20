@@ -102,6 +102,10 @@ p, address {
   font-size: 9px; /* FIX FONT SIZE*/
 }
 
+address {
+  font-style: italic;
+}
+
 figure {
   margin:0 0 10px;
 }
