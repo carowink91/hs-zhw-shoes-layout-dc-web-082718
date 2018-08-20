@@ -58,8 +58,8 @@ body {
   background: url(../images/handmadepaper.png);
 }
 
-div #col3 p, div #col4 p, div #col5 p{
-  font-size: 160px;
+div #col3 p, div #col4 p, div #col5 p{ /*3 shoe pics paragraph*/
+  font-size: 16px;
 }
 
 h2, h3 {
