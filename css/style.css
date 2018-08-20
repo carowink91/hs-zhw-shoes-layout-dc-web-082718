@@ -31,7 +31,10 @@ img.verif_img {
   width: 33%;
 }
 
-
+#col3 {
+  float: right;
+  width: 33%;
+}
 
 
 /********** Global **********/
