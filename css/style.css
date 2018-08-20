@@ -75,7 +75,7 @@ h2, h3 {
 }
 
 .border_right {
-  float: right;
+  float: left;
 }
 
 ul, ol {
