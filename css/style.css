@@ -79,9 +79,15 @@ h2, h3 {
   width: 32%;
 }
 
+.border_right h3 {
+  font-size: 1em;
+}
+
 #first, #middle {
   margin-right: 2%
 }
+
+
 
 ul, ol {
   margin-bottom: 10px;
