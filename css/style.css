@@ -47,6 +47,7 @@ img.verif_img {
   float: right;
   width: 32%;
   height: 350px;
+  overflow: hidden;
 }
 
 
