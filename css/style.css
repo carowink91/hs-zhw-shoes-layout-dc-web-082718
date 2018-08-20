@@ -35,7 +35,7 @@ img.verif_img {
   padding-bottom: 30px;
 }
 
-#col3 {
+#col3, #col4 {
   float: right;
   width: 33%;
   margin-left: 2%;
@@ -44,6 +44,7 @@ img.verif_img {
 #col4 {
   float: right;
   width: 33.33%;
+  margin
 }
 
 #col5 {
