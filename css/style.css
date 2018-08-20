@@ -375,7 +375,7 @@ section a {
 
 /********** Footer **********/
 
-footer {
+footer { /*footer "copyright"..*/
   text-align: center;
   font-size: 8px;
   color: #555;
