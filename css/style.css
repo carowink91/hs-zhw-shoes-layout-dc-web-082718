@@ -74,6 +74,9 @@ h2, h3 {
   font-size: 9px;
 }
 
+.border_right {
+  float: right;
+}
 
 ul, ol {
   margin-bottom: 10px;
