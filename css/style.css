@@ -76,11 +76,11 @@ h2, h3 {
 
 .border_right {
   float: left;
-  width: 32.5%;
+  width: 32%;
 }
 
 #first, #middle {
-  margin-right: 1.5%
+  margin-right: 2%
 }
 
 ul, ol {
