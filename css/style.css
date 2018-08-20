@@ -21,7 +21,6 @@ img.verif_img {
   width: 66%;
   margin-right: 2%;
   margin-bottom: 1em;
-  height: 100%
 }
 
 #col2 { /* dates list "Jan, Feb, 14th" */
@@ -30,6 +29,10 @@ img.verif_img {
   margin-bottom: 1em;
   font-size: 9px;
   padding-bottom: 2.1em;
+}
+
+#col1, #col2 {
+  height: 100%
 }
 
 #col3, #col4 {
