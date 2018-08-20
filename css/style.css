@@ -114,6 +114,10 @@ iframe {
   margin: 0 auto;
 }
 
+.wrapper2 {
+  width: 66.66%;
+}
+
 .shadow {
   box-shadow: 0 3px 10px #333;
 }
