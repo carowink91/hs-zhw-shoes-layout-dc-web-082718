@@ -116,6 +116,7 @@ iframe {
 
 .wrapper2 {
   width: 66.66%;
+  float: left;
 }
 
 .shadow {
