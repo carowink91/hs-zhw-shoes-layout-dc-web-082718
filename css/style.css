@@ -49,8 +49,8 @@ img.verif_img {
 }
 
 
-.shadow figcaption {
-  font-size: 8px; /* FIX FONT SIZE*/
+.shadow figcaption { /*pic caption*/
+  font-size: 80px; /* FIX FONT SIZE*/
 }
 /********** Global **********/
 
