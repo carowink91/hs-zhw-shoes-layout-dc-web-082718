@@ -354,6 +354,10 @@ section a {
   text-decoration: none;
 }
 
+#details p {
+  font-size: 9px;
+}
+
 #details a:hover, #details a:active {
   text-decoration: underline;
 }
