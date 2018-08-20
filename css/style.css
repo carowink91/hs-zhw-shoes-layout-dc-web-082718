@@ -8,11 +8,6 @@ img, video, audio, iframe, table, form {
   max-width: 100%; /* FF, Safari, Chrome */
 }
 
-.shadow img[alt*="grass"] {
-
-}
-
-
 /* prevent the verify image on contact page from stretching */
 img.verif_img {
   width: 50px;
@@ -24,7 +19,7 @@ img.verif_img {
 #col1 {
   float: left;
   width: 66%;
-  margin-right: 2%;
+  margin-right: 20%;
   margin-bottom: 1em;
 }
 
