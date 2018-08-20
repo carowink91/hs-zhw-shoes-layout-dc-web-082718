@@ -36,7 +36,7 @@ img.verif_img {
 }
 
 #col3, #col4 {
-  float: right;
+  float: left;
   width: 32%;
   margin-left: 2%;
 }
