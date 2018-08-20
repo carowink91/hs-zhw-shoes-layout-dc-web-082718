@@ -80,7 +80,9 @@ h2, h3 {
   padding-right: 5em;
 }
 
-#first, #middle
+#first, #middle {
+  margin-right: 2%
+}
 
 ul, ol {
   margin-bottom: 10px;
