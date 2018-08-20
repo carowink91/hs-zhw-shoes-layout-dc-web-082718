@@ -48,9 +48,6 @@ img.verif_img {
   height: 350px;
 }
 
-#col3 p, #col4 p, #col5 p {
-  font-size: 2em;
-}
 
 .shadow figcaption {
   font-size: 8px; /* FIX FONT SIZE*/
@@ -61,7 +58,7 @@ body {
   background: url(../images/handmadepaper.png);
 }
 
-#col3 p{
+#col3 p, #col4 p, #col5 p{
   font-size: 1em;
 }
 
