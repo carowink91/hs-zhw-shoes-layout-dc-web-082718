@@ -12,6 +12,9 @@ img, video, audio, iframe, table, form {
 
 }
 
+.row2 {
+  length: 100%;
+}
 /* prevent the verify image on contact page from stretching */
 img.verif_img {
   width: 50px;
