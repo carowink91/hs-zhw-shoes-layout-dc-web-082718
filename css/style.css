@@ -58,7 +58,7 @@ body {
   background: url(../images/handmadepaper.png);
 }
 
-#col3 p, #col4 p, #col5 p{
+div #col3 p, div #col4 p, div #col5 p{
   font-size: xx-small;
 }
 
