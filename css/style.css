@@ -26,7 +26,7 @@ img.verif_img {
 #col2 { /* dates list "Jan, Feb, 14th" */
   float: left;
   width: 32%;
-  margin-bottom: 1%;
+  margin-bottom: 16px;
   font-size: 9px;
   padding-bottom: 2.1em;
 }
