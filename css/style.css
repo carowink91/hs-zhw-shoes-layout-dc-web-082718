@@ -118,7 +118,7 @@ iframe {
   box-shadow: 0 3px 10px #333;
 }
 ```
-.milk_text {
+br + h2 {
   font: bold 42px 'Elsie Swash Caps', cursive;
   text-shadow: 0 2px 3px #000;
   margin: 0 0 10px;
