@@ -20,6 +20,10 @@ img.verif_img {
 }
 /******* COLUMNS *********/
 
+#col1 {
+  float: right;
+  width: 32%
+}
 
 
 
