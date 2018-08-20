@@ -40,12 +40,13 @@ img.verif_img {
   width: 32%;
   margin-right: 2%;
   height: 80%;
-  
+
 }
 
 #col5 {
   float: right;
   width: 32%;
+  height: 80%
 }
 
 /********** Global **********/
