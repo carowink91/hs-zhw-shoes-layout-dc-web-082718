@@ -57,6 +57,10 @@ body {
   background: url(../images/handmadepaper.png);
 }
 
+#col3 p, #col4 p, #col5 p {
+  font-size: 20px;
+}
+
 h2, h3 {
   margin-bottom: 5px;
 }
