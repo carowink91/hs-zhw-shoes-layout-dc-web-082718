@@ -9,7 +9,7 @@ img, video, audio, iframe, table, form {
 }
 
 .shadow img[alt*="grass"] {
-  
+
 }
 
 /* prevent the verify image on contact page from stretching */
@@ -119,7 +119,7 @@ iframe {
 }
 ```
 .milk_text {
-  font: bold 5em 'Elsie Swash Caps', cursive;
+  font: bold 42px 'Elsie Swash Caps', cursive;
   color: white;
   text-shadow: 0 2px 3px #000;
   margin: 0 0 10px;
