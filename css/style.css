@@ -50,7 +50,7 @@ img.verif_img {
 
 
 .shadow figcaption {
-  font-size: 9px; /* FIX FONT SIZE*/
+  font-size: 8px; /* FIX FONT SIZE*/
 }
 /********** Global **********/
 
@@ -59,7 +59,7 @@ body {
 }
 
 div #col3 p, div #col4 p, div #col5 p{
-  font-size: 16px;
+  font-size: 30px;
 }
 
 h2, h3 {
