@@ -365,7 +365,7 @@ section a {
 }
 
 #details p {/*************/
-  font-size: .3em;
+  font-size: 8px;
 }
 
 #details a:hover, #details a:active {
