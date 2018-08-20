@@ -69,6 +69,12 @@ h2, h3 {
   font-weight: bold;
 
 }
+
+.shadow p {
+  font-size: 10px;
+}
+
+
 ul, ol {
   margin-bottom: 10px;
 }
