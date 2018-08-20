@@ -72,13 +72,13 @@ h2, h3 {
 }
 
 #col2 h2 {
-  font-size: 25px;
+  font-size: 28px;
   font-weight: bold;
 
 }
 
 .shadow p { /* FIX FONT SIZE*/
-  font-size: 1em;
+  font-size: 6em;
 }
 
 .border_right {
